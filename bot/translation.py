@@ -4,13 +4,9 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
-
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
-
-For More Details Click Help Button Below..
-@CrazyBotsz
+    START_TEXT = """<b>ഹായ് {}!!</b>
+<i>ഞാൻ മൂവി hut മലയാളത്തിനു പണിയടുക്കുന്ന ഒരു ഓട്ടോ ഫിൽറ്റർ ബോട്ട് ആണ് 
+@Movie_hut_group
 </i>"""    
     
     HELP_TEXT = """
@@ -43,12 +39,12 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@THOMAS_MOVIE_HUT
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/THOMAS_MOVIE_HUT">THOMAS_MOVIE_HUT</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
